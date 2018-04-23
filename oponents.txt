@@ -1,0 +1,13 @@
+3
+Alvaro
+4370
+Normal
+15
+Diego
+3240
+Fort
+13
+David
+7385
+Debil
+14
